@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="edit_phone">Enter a phone number</string>
+    <string name="edit_email">Enter your email</string>
+    <string name="edit_date">Enter today\'s date</string>
+    <string name="button_switch">Switch</string>
+    <string name="button_check">Check</string>
+    <string name="button_chip">Chip</string>
+    <string name="edit_hello">Hello there</string>
+</resources>
